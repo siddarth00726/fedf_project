@@ -1,0 +1,32 @@
+[
+  {
+    "code": "SAVE10",
+    "discountPercent": 10,
+    "active": true,
+    "description": "10% off your order"
+  },
+  {
+    "code": "SAVE20",
+    "discountPercent": 20,
+    "active": true,
+    "description": "20% off — best for big carts"
+  },
+  {
+    "code": "FIRSTORDER30",
+    "discountPercent": 30,
+    "active": true,
+    "description": "30% off first order"
+  },
+  {
+    "code": "TECH2026",
+    "discountPercent": 15,
+    "active": true,
+    "description": "15% off 2026 tech collection"
+  },
+  {
+    "code": "FLASH25",
+    "discountPercent": 25,
+    "active": true,
+    "description": "25% flash sale (limited)"
+  }
+]

@@ -1,0 +1,783 @@
+[
+  {
+    "_id": "prod_1",
+    "name": "Apple MacBook Pro 16\" (M3 Max)",
+    "description": "Apple M3 Max chip, 16-core CPU, 40-core GPU, 48GB Unified Memory, 1TB SSD storage, 16.2\" Liquid Retina XDR display.",
+    "price": 249900,
+    "category": "Laptops",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.9,
+    "stock": 18,
+    "trending": true,
+    "tags": [
+      "laptop",
+      "macbook",
+      "apple",
+      "m3"
+    ],
+    "badge": "Best Seller",
+    "salePrice": 234900,
+    "saleEndsAt": "2026-12-31T23:59:59.000Z",
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_2",
+    "name": "Apple iPhone 15 Pro Max (256GB)",
+    "description": "Titanium design, A17 Pro chip, 5x Telephoto camera, action button, USB-C, and dynamic island layout.",
+    "price": 139900,
+    "category": "Mobile",
+    "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.8,
+    "stock": 32,
+    "trending": true,
+    "tags": [
+      "mobile",
+      "phone",
+      "iphone",
+      "apple"
+    ],
+    "badge": "Hot Deal",
+    "salePrice": 129900,
+    "saleEndsAt": "2026-12-31T23:59:59.000Z",
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_3",
+    "name": "Sony WH-1000XM5 Wireless Headphones",
+    "description": "Industry-leading noise canceling with auto optimizer, crystal-clear hands-free calls, and 30-hour battery life.",
+    "price": 29990,
+    "category": "Audio",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.8,
+    "stock": 45,
+    "trending": true,
+    "tags": [
+      "headphones",
+      "sony",
+      "anc",
+      "wireless"
+    ],
+    "badge": "New",
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_4",
+    "name": "Sony PlayStation 5 Slim (Digital)",
+    "description": "Experience lightning-fast loading with an ultra-high speed SSD, deeper immersion with haptic feedback support.",
+    "price": 44990,
+    "category": "Gaming",
+    "image": "https://images.unsplash.com/photo-1606813907291-d86edd9b94db?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.8,
+    "stock": 25,
+    "trending": true,
+    "tags": [
+      "gaming",
+      "console",
+      "ps5",
+      "sony"
+    ],
+    "salePrice": 41990,
+    "saleEndsAt": "2026-12-31T23:59:59.000Z",
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_5",
+    "name": "Nike Air Max 270 Sneakers",
+    "description": "Nikes first lifestyle Air Max brings you style, comfort and big attitude. Large volume Max Air unit provides reactive cushioning.",
+    "price": 12995,
+    "category": "Shoes",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.7,
+    "stock": 60,
+    "trending": true,
+    "tags": [
+      "shoes",
+      "sneakers",
+      "nike"
+    ],
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_6",
+    "name": "Keychron K2 Mechanical Keyboard",
+    "description": "Tactile Gateron switches, RGB backlighting, 84-key layout, Bluetooth/Wired connectivity, works with Mac & Windows.",
+    "price": 7499,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.6,
+    "stock": 80,
+    "trending": true,
+    "tags": [
+      "keyboard",
+      "mechanical",
+      "keychron"
+    ],
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_7",
+    "name": "Samsung Galaxy S24 Ultra (512GB)",
+    "description": "Galaxy AI is here. 200MP camera, built-in S Pen, Snapdragon 8 Gen 3 for Galaxy, titanium frame design.",
+    "price": 129999,
+    "category": "Mobile",
+    "image": "https://images.unsplash.com/photo-1610792516307-ea5acd9c3b00?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.7,
+    "stock": 22,
+    "trending": true,
+    "tags": [
+      "mobile",
+      "phone",
+      "samsung",
+      "galaxy"
+    ],
+    "badge": "Best Seller",
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_8",
+    "name": "Apple Watch Ultra 2 (GPS + Cellular)",
+    "description": "The ultimate sports watch. Titanium case, dual-frequency GPS, up to 36-hour battery life, customizable action button.",
+    "price": 89900,
+    "category": "Wearables",
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.8,
+    "stock": 40,
+    "trending": true,
+    "tags": [
+      "watch",
+      "smartwatch",
+      "apple",
+      "ultra"
+    ],
+    "salePrice": 84900,
+    "saleEndsAt": "2026-12-31T23:59:59.000Z",
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_9",
+    "name": "Logitech MX Master 3S Mouse",
+    "description": "Quiet clicks, 8K DPI tracking on glass, MagSpeed electromagnetic scrolling, ergonomic profile, multi-device connectivity.",
+    "price": 9495,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.7,
+    "stock": 100,
+    "trending": true,
+    "tags": [
+      "mouse",
+      "logitech",
+      "mx",
+      "office"
+    ],
+    "badge": "New",
+    "salePrice": 8995,
+    "saleEndsAt": "2026-12-31T23:59:59.000Z",
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_10",
+    "name": "Apple iPad Pro 12.9\" (M2, 128GB)",
+    "description": "Brilliant 12.9-inch Liquid Retina XDR display, M2 chip, ProRes video capture, FaceTime camera, support for Pencil 2.",
+    "price": 112900,
+    "category": "Tablets",
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.7,
+    "stock": 28,
+    "trending": true,
+    "tags": [
+      "tablet",
+      "ipad",
+      "apple",
+      "pro"
+    ],
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_11",
+    "name": "DJI Mini 4 Pro Fly More Combo",
+    "description": "Ultralight folding mini drone, 4K/60fps HDR true vertical shooting, omnidirectional obstacle sensing, 34-min flight time.",
+    "price": 95000,
+    "category": "Cameras",
+    "image": "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.8,
+    "stock": 15,
+    "trending": false,
+    "tags": [
+      "drone",
+      "camera",
+      "dji",
+      "mini"
+    ],
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_12",
+    "name": "Canon EOS R6 Mark II Mirrorless",
+    "description": "Full-frame 24.2 MP mirrorless camera, up to 40 fps electronic shutter, Dual Pixel CMOS AF II, 4K 60p video recording.",
+    "price": 215000,
+    "category": "Cameras",
+    "image": "https://images.unsplash.com/photo-1516035069370-29a1d244b13c?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.9,
+    "stock": 8,
+    "trending": true,
+    "tags": [
+      "camera",
+      "canon",
+      "eos",
+      "mirrorless"
+    ],
+    "badge": "Best Seller",
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_13",
+    "name": "JBL Charge 5 Bluetooth Speaker",
+    "description": "JBL Pro Sound with optimized long excursion driver, separate tweeter, dual pumping bass radiators, up to 20 hrs playtime.",
+    "price": 14999,
+    "category": "Audio",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.6,
+    "stock": 50,
+    "trending": false,
+    "tags": [
+      "speaker",
+      "bluetooth",
+      "jbl",
+      "audio"
+    ],
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_14",
+    "name": "Amazon Kindle Paperwhite (16GB)",
+    "description": "Now with a 6.8\" display and thinner borders, adjustable warm light, up to 10 weeks of battery life, 20% faster page turns.",
+    "price": 14999,
+    "category": "Tablets",
+    "image": "https://images.unsplash.com/photo-1592496001020-d31bd830651f?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.6,
+    "stock": 35,
+    "trending": false,
+    "tags": [
+      "kindle",
+      "reader",
+      "amazon",
+      "book"
+    ],
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_15",
+    "name": "Dell UltraSharp 32\" 4K USB-C Hub Monitor",
+    "description": "IPS Black technology, wide color coverage, USB-C connectivity with power delivery up to 90W, height-adjustable stand.",
+    "price": 85000,
+    "category": "Monitors",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.7,
+    "stock": 120,
+    "trending": true,
+    "tags": [
+      "monitor",
+      "dell",
+      "4k",
+      "display"
+    ],
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_16",
+    "name": "Bose QuietComfort Ultra Earbuds",
+    "description": "Breakthrough spatialized audio, world-class noise cancellation, CustomTune technology, touch controls, up to 6 hours charge.",
+    "price": 25900,
+    "category": "Audio",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.5,
+    "stock": 200,
+    "trending": false,
+    "tags": [
+      "earbuds",
+      "bose",
+      "anc",
+      "wireless"
+    ],
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_17",
+    "name": "ASUS ROG Zephyrus G14 Gaming Laptop",
+    "description": "AMD Ryzen 9 8945HS, NVIDIA GeForce RTX 4070 GPU, 14\" 120Hz OLED Display, 32GB LPDDR5X, 1TB PCIe 4.0 SSD.",
+    "price": 149990,
+    "category": "Laptops",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.8,
+    "stock": 55,
+    "trending": false,
+    "tags": [
+      "laptop",
+      "asus",
+      "rog",
+      "gaming"
+    ],
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_18",
+    "name": "GoPro HERO12 Black Action Camera",
+    "description": "High dynamic range video (5.3K and 4K), HyperSmooth 6.0 video stabilization, rugged waterproof build, 70-min runtime.",
+    "price": 38000,
+    "category": "Cameras",
+    "image": "https://images.unsplash.com/photo-1565538810844-1e1192116767?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.6,
+    "stock": 20,
+    "trending": false,
+    "tags": [
+      "camera",
+      "gopro",
+      "action",
+      "rugged"
+    ],
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_19",
+    "name": "Samsung 990 PRO 2TB NVMe M.2 SSD",
+    "description": "PCIe Gen 4 x4, sequential read speeds up to 7450 MB/s, optimized power efficiency, smart thermal control.",
+    "price": 16999,
+    "category": "Storage",
+    "image": "https://images.unsplash.com/photo-1597872204300-0b36b0f4aa08?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.9,
+    "stock": 65,
+    "trending": true,
+    "tags": [
+      "ssd",
+      "storage",
+      "samsung",
+      "nvme"
+    ],
+    "badge": "New",
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_20",
+    "name": "Anker Prime 140W GaN Wall Charger",
+    "description": "Ultra-fast charging for laptops, multi-port charging (2 USB-C, 1 USB-A), dynamic power distribution, compact folding plug.",
+    "price": 7999,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1591290619762-d2f8b5aee3e0?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.7,
+    "stock": 30,
+    "trending": true,
+    "tags": [
+      "charger",
+      "anker",
+      "gan",
+      "fast"
+    ],
+    "salePrice": 6999,
+    "saleEndsAt": "2026-12-31T23:59:59.000Z",
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_26",
+    "name": "Nike Sportswear Windrunner Jacket",
+    "description": "Water-repellent fabric, mesh lining for breathability, iconic chevron design lines, classic track look.",
+    "price": 6995,
+    "category": "Clothes",
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.6,
+    "stock": 45,
+    "trending": true,
+    "tags": [
+      "clothes",
+      "jacket",
+      "nike",
+      "sport"
+    ],
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_27",
+    "name": "Levi's 511 Slim Fit Jeans",
+    "description": "A modern slim with room to move. Premium denim with a hint of stretch for all-day comfort and mobility.",
+    "price": 3999,
+    "category": "Clothes",
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.5,
+    "stock": 80,
+    "trending": false,
+    "tags": [
+      "clothes",
+      "jeans",
+      "levis",
+      "denim"
+    ],
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_28",
+    "name": "LEGO Star Wars Millennium Falcon Set",
+    "description": "Build and display the iconic Corellian freighter. Features 2,300+ pieces, detailed interior, and 7 minifigures.",
+    "price": 14999,
+    "category": "Toys",
+    "image": "https://images.unsplash.com/photo-1585366119957-e5733f3c7f76?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.9,
+    "stock": 12,
+    "trending": true,
+    "tags": [
+      "toys",
+      "lego",
+      "starwars",
+      "kids"
+    ],
+    "badge": "Best Seller",
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_29",
+    "name": "Nerf Elite 2.0 Commander Blaster",
+    "description": "Ready for battle. 6-dart rotating drum, tactical rails, barrel attachment point, and includes 12 official Nerf darts.",
+    "price": 1899,
+    "category": "Toys",
+    "image": "https://images.unsplash.com/photo-1599690926312-d20037f1f55a?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.4,
+    "stock": 120,
+    "trending": false,
+    "tags": [
+      "toys",
+      "nerf",
+      "blaster",
+      "kids"
+    ],
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_30",
+    "name": "Ergonomic High-Back Mesh Office Chair",
+    "description": "Adjustable 3D armrests, dynamic lumbar support, breathable mesh, locking tilt mechanism, steel wheelbase.",
+    "price": 12499,
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1589384267710-7a259678a59a?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.7,
+    "stock": 25,
+    "trending": true,
+    "tags": [
+      "furniture",
+      "chair",
+      "office",
+      "ergonomic"
+    ],
+    "badge": "New",
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_31",
+    "name": "Solid Oak Wood Writing Study Desk",
+    "description": "Clean Scandinavian styling, two soft-close drawers, solid wood legs, spacious tabletop for monitor and laptop.",
+    "price": 18999,
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.6,
+    "stock": 18,
+    "trending": false,
+    "tags": [
+      "furniture",
+      "desk",
+      "wood",
+      "study"
+    ],
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_32",
+    "name": "Patagonia Torrentshell 3L Rain Jacket",
+    "description": "Simple and unpretentious, our trusted Torrentshell 3L Rain Jacket meets Patagonia H2No Performance Standard for exceptional waterproof durability.",
+    "price": 14999,
+    "category": "Clothes",
+    "image": "https://images.unsplash.com/photo-1544923246-77307dd654cb?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.8,
+    "stock": 25,
+    "trending": true,
+    "tags": [
+      "clothes",
+      "jacket",
+      "patagonia",
+      "outdoor"
+    ],
+    "badge": "Premium",
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_33",
+    "name": "Champion Powerblend Fleece Joggers",
+    "description": "Retro style meets modern athletic comfort. Standard men fit joggers with midweight fleece lining and iconic C patch logo.",
+    "price": 2999,
+    "category": "Clothes",
+    "image": "https://images.unsplash.com/photo-1552664199-fd31f7431a55?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.4,
+    "stock": 75,
+    "trending": false,
+    "tags": [
+      "clothes",
+      "joggers",
+      "pants",
+      "champion"
+    ],
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_34",
+    "name": "Adidas Originals Trefoil Hoodie",
+    "description": "A classic sports hoodie with bold brand styling. Heavyweight French terry cotton with adjustable drawstring hood.",
+    "price": 4999,
+    "category": "Clothes",
+    "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.6,
+    "stock": 45,
+    "trending": false,
+    "tags": [
+      "clothes",
+      "hoodie",
+      "sweatshirt",
+      "adidas"
+    ],
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_35",
+    "name": "DJI Tello Toy Drone",
+    "description": "A miniature quadcopter designed for kids and adults. Performs 8D flips, takes 5MP photos, and teaches coding basics.",
+    "price": 9999,
+    "category": "Toys",
+    "image": "https://images.unsplash.com/photo-1508614589041-895b88991e3e?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.5,
+    "stock": 20,
+    "trending": true,
+    "tags": [
+      "toys",
+      "drone",
+      "dji",
+      "gadget"
+    ],
+    "badge": "Trending",
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_36",
+    "name": "Rubik's Connected Smart Cube",
+    "description": "App-enabled Bluetooth speed cube that tracks your moves in real time. Learn how to solve and compete with cubers worldwide.",
+    "price": 3499,
+    "category": "Toys",
+    "image": "https://images.unsplash.com/photo-1585262112005-78335198a2e1?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.7,
+    "stock": 40,
+    "trending": false,
+    "tags": [
+      "toys",
+      "puzzle",
+      "rubiks",
+      "smart"
+    ],
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_37",
+    "name": "LEGO Technic Porsche 911 GT3 RS",
+    "description": "A detailed 1:8 scale model featuring working steering, detailed dashboard, and simulated flat 6 engine.",
+    "price": 24999,
+    "category": "Toys",
+    "image": "https://images.unsplash.com/photo-1585366119957-e5733f3c7f76?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.9,
+    "stock": 8,
+    "trending": true,
+    "tags": [
+      "toys",
+      "lego",
+      "car",
+      "hobby"
+    ],
+    "badge": "Collector",
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_38",
+    "name": "IKEA BILLY Bookcase with Glass Doors",
+    "description": "A true classic bookcase that is highly functional and adaptable. Tempered glass doors showcase your items while protecting from dust.",
+    "price": 11999,
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1595428774223-ef52624120d2?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.5,
+    "stock": 15,
+    "trending": false,
+    "tags": [
+      "furniture",
+      "bookcase",
+      "ikea",
+      "storage"
+    ],
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_39",
+    "name": "Herman Miller Aeron Chair",
+    "description": "The absolute gold standard in ergonomic seating. Adjustable PostureFit SL lumbar support, 8Z Pellicle suspension mesh.",
+    "price": 89999,
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1580481072645-022f9a6dbf27?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.9,
+    "stock": 5,
+    "trending": true,
+    "tags": [
+      "furniture",
+      "chair",
+      "office",
+      "ergonomic"
+    ],
+    "badge": "Premium",
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_40",
+    "name": "Cozy L-Shaped Sectional Sofa Couch",
+    "description": "Sink-in comfort with deep seating, soft linen upholstery, and a sturdy solid hardwood framework layout.",
+    "price": 45999,
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.7,
+    "stock": 10,
+    "trending": false,
+    "tags": [
+      "furniture",
+      "sofa",
+      "couch",
+      "livingroom"
+    ],
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_21",
+    "name": "Adidas Ultraboost Light Running Shoes",
+    "category": "Shoes",
+    "description": "Lightweight running shoe with responsive BOOST cushioning and Continental Rubber outsole.",
+    "price": 18999,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.8,
+    "stock": 50,
+    "trending": true,
+    "tags": [
+      "shoes",
+      "adidas",
+      "sneakers"
+    ],
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_22",
+    "name": "Timberland Premium 6-Inch Waterproof Boot",
+    "category": "Shoes",
+    "description": "Classic waterproof leather workboots with seam-sealed construction and PrimaLoft insulation.",
+    "price": 16500,
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.7,
+    "stock": 30,
+    "trending": true,
+    "tags": [
+      "boots",
+      "shoes",
+      "timberland"
+    ],
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_23",
+    "name": "Razer BlackWidow V4 Mechanical Keyboard",
+    "category": "Keyboards",
+    "description": "Mechanical gaming keyboard featuring Green clicky switches, 2-sided underglow RGB, and dedicated macro keys.",
+    "price": 19999,
+    "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.8,
+    "stock": 40,
+    "trending": true,
+    "tags": [
+      "keyboard",
+      "gaming",
+      "razer",
+      "mechanical"
+    ],
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_24",
+    "name": "Logitech MX Keys S Wireless Keyboard",
+    "category": "Keyboards",
+    "description": "Low-profile smart keyboard with fluid matte typing, smart backlighting, and programmable keys.",
+    "price": 12995,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.5,
+    "stock": 60,
+    "trending": false,
+    "tags": [
+      "keyboard",
+      "wireless",
+      "logitech",
+      "office"
+    ],
+    "year": 2026,
+    "catalogVersion": 5
+  },
+  {
+    "_id": "prod_25",
+    "name": "Catan Strategy Board Game (5th Edition)",
+    "description": "Guide your settlers to victory through clever trading and development of roads and settlements.",
+    "category": "Toys",
+    "price": 3999,
+    "image": "https://images.unsplash.com/photo-1610890716171-6b1bb98ffd09?auto=format&fit=crop&w=600&h=600&q=80",
+    "rating": 4.6,
+    "stock": 35,
+    "trending": false,
+    "tags": [
+      "toys",
+      "game",
+      "boardgame",
+      "catan"
+    ],
+    "year": 2026,
+    "catalogVersion": 5
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "name": "fedf-dhanush",
+  "version": "1.0.0",
+  "description": "A full-stack MERN-style e-commerce app (React + Express) with **no database setup** — data is stored in simple JSON files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
